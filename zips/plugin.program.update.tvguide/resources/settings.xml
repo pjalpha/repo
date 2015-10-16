@@ -1,8 +1,0 @@
-<settings>
-	<category label="Settings">
-     		<setting id="usern" type="text" label="Email" default=""/>
-     		<setting id="passw" type="text" label="Password" option="hidden" default=""/>
-    		<setting id="Duser" type="text" label="Dexter Username" default=""/>
-     		<setting id="Dpass" type="text" label="Dexter Password" option="hidden" default=""/>
-    	</category>
-</settings>
