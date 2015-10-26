@@ -48,4 +48,24 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+<addon id="script.pjatv" name="Project Alpha TV Guide" version="1.1.0" provider-name="Alpha, Antony, rayw1986, bluezed">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Renegades TV Guide fully working EPG</summary>
+		<description lang="en">Project Alpha fully working EPG</description>
+		<disclaimer lang="en">Project Alpha TV Guide is based on Renegades TV Guide by Antony and FTV Guide by Bluezed and RayW1986, which is based on the original TV Guide addon by twinther.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GPLv2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
 </addons>
