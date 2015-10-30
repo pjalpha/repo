@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-	<addon id="plugin.program.update.tvguide" name="Update TV Guide" version="1.6.1" provider-name="@lpha">
+	<addon id="plugin.program.update.tvguide" name="Update TV Guide" version="1.7.0" provider-name="@lpha">
 
 		<requires>
 
@@ -22,7 +22,7 @@
 
 			<platform>all</platform>
 
-			<summary lang="en">Project @lpha Update TV Guide Version 1.6.1</summary>
+			<summary lang="en">Project @lpha Update TV Guide Version 1.7.0</summary>
 
 			<description lang="en">Updates the Renegades TV Guide</description>
 

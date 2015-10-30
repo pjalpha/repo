@@ -1,3 +1,5 @@
+1.7.0 Menu and News added
+
 1.6.0 Dexter Login fix
 
 1.5.1 Navigation fix
