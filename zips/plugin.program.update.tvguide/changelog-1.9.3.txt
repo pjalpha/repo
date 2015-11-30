@@ -1,3 +1,5 @@
+1.9.3 New background services
+
 1.8.0 New System and Windows fix
 
 1.7.0 Menu and News added
