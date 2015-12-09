@@ -53,7 +53,7 @@ To disable the auto update feature
 	</extension>
 </addon>
 
-<addon id="script.renegadestv" name="Renegades TV Guide" version="1.1.7" provider-name="@lpha,Antony, rayw1986, bluezed">
+<addon id="script.renegadestv" name="Renegades TV Guide" version="1.1.8" provider-name="@lpha,Antony, rayw1986, bluezed">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
