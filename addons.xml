@@ -40,13 +40,12 @@ To disable the auto update feature
 
 	</addon>
 
-<addon id="plugin.video.alpha" name="Project Alpha Video" version="1.8.2" provider-name="@lpha">
+<addon id="plugin.video.alpha" name="Project Alpha Video" version="1.8.3" provider-name="@lpha">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.urlresolver"  />
 	<import addon="script.module.liveresolver"  />
-	<import addon="script.module.metahandler" />
-  </requires>
+	</requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
